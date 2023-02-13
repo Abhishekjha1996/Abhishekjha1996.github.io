@@ -18,7 +18,7 @@ import {
 } from '@chakra-ui/react';
 import { HamburgerIcon, CloseIcon, AddIcon } from '@chakra-ui/icons';
 
-const Links = ['Dashboard', 'Projects', 'Team'];
+const Links = ['Home','About', 'Skills', 'Projects', 'Contact'];
 
 const NavLink = ({ children }: { children: ReactNode }) => (
   <Link
@@ -49,7 +49,7 @@ export default function Navbar() {
             onClick={isOpen ? onClose : onOpen}
           />
           <HStack spacing={8} alignItems={'center'}>
-            <Box>Logo</Box>
+            <Box><Avatar src="https://i.pinimg.com/564x/c5/d5/24/c5d524050a24be0d275f4e3f3fe57f4d.jpg" /> </Box>
             <HStack
               as={'nav'}
               spacing={4}
@@ -78,7 +78,7 @@ export default function Navbar() {
                 <Avatar
                   size={'sm'}
                   src={
-                    'https://images.unsplash.com/photo-1493666438817-866a91353ca9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=b616b2c5b373a80ffc9636ba24f7a4a9'
+                    'https://media.licdn.com/dms/image/C4E03AQGxF8CKO76XLw/profile-displayphoto-shrink_100_100/0/1604372783301?e=1681344000&v=beta&t=t4XwaYx_In_IeLtRpBhj44Tbno-i5I6pOfYjRAIVQqU'
                   }
                 />
               </MenuButton>
