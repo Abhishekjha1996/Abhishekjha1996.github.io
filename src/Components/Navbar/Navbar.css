@@ -1,0 +1,92 @@
+*{
+  color: white;
+  background-color: black;
+}
+
+
+
+.navbar {
+  height: 70px;
+  width: 100%;
+  box-shadow: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 100px;
+  position: fixed;
+  z-index: 1;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+ 
+  background-color: black;
+
+ 
+}
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+}
+.navbar ul li {
+  margin: 20px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+ 
+}
+.navbar ul li:hover {
+color: white
+}
+
+#checkbox {
+  display: none;
+}
+.Hamburger{
+  display:none !important;
+}
+
+#bar{
+  display: none;
+}
+@media only screen and (min-width:340px) and (max-width:480px){
+      #bar{
+        display: block !important;
+      }
+} 
+@media only screen and (min-width:481px) and (max-width:890px){
+  #bar{
+    display: block !important;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .navbar {
+    padding: 0 20px;
+  }
+  .navbar ul {
+  background-color: black;
+  
+    position: fixed;
+    top: 60px;
+    left: -50%;
+    height: 100vh;
+    flex-direction: column;
+    width: 50%;
+    transition: all 0.5s linear;
+  }
+
+  #checkbox:checked ~ .nav-ul {
+    left: 0;
+  }
+  .Hamburger{
+    font-size: 25px;
+    display: block;
+  }
+  .h12 {
+    padding-top: 11%;
+    margin-top: 4%;
+    border: 3px solid black;
+  }
+}

@@ -1,0 +1,54 @@
+*{
+    color: white;
+    background-color: black;
+  }
+  
+
+.fontlink{
+    font-size:26px;
+   color:white;
+
+}
+.connect{
+    background-color: black;
+    background-size: 200% 200%;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-top: 20px;
+}
+.container{
+    width: 73%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+.links{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    column-gap: 5%;
+}
+.connect h1{
+    color: white;
+    margin: 20px;
+}
+.copyright-text{
+    margin-top: 4%;
+    color: white;
+}
+.copyright {
+    background-color:#131f33;
+    color:white;
+    margin-top: 4%;
+    font-size: 16px;
+    padding: 5px;
+    text-align: cent
+}
+.con-head{
+    margin-bottom: 4%;
+    /* font-size: 16px; */
+}
+.mail-id{
+    color: #f2e8ca;
+    letter-spacing: 1px;
+}

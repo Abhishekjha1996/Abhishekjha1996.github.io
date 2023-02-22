@@ -1,0 +1,82 @@
+#skill {
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  padding: 4%;
+  margin-top: 5%;
+  box-sizing: border-box;
+  /* border-radius: 4%; */
+  scroll-margin-top: 60px;
+  background-color: black;
+}
+.h15 {
+  /* padding-top: 6%; */
+  font-family:'Roboto', sans-serif;
+  color:white;
+  margin-bottom: 2%;
+  font-size: 36px;
+}
+#tools {
+  /* border: 1px solid red; */
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 100px;
+  padding: 40px 0;
+  box-sizing: border-box;
+}
+#tools div {
+  /* border: 1px solid red; */
+  background-color: white;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+  /* background-size: 200% 200%; */
+  border-radius: 15%;
+  width: 150px;
+  height: 150px;
+  font-size: 14px;
+  font-family: sans-serif;
+  color: #131f33;
+  padding: 10px;
+  padding-top:15px;
+ margin-left: 20px;
+ margin-right: 20px;
+  
+}
+
+#tools div img {
+  /* border: 2px solid blue; */
+  display: block;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10%;
+}
+
+
+/* #skill h1 {
+  margin: 10px;
+} */
+@media only screen and (min-width:340px) and (max-width:480px){
+  #tools div {
+
+    
+    background-size: 200% 200%;
+    border-radius: 15%;
+    width: 100px;
+    height: 70px;
+    font-size: 17px;
+    margin: auto;
+    padding: 10px;
+    padding-top:15px;
+    
+  }
+  #skill {
+    
+    margin-top: 10%;
+   
+  }
+} 
+ @media only screen and (min-width:481px) and (max-width:890px){
+   
+}
+ 
