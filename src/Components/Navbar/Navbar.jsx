@@ -23,19 +23,19 @@ export default function Navbar() {
       </div>
       <ul className="nav-ul">
         <Link to="home" smooth={true} duration={500} className="nav-link.home">
-          <li>Home</li>
+          <li className="nav-link.home">Home</li>
         </Link>
         <Link to="about" smooth={true} duration={500} className="nav-link.about" >
-          <li>About</li>
+          <li className="nav-link.about">About</li>
         </Link>
         <Link to="skills" smooth={true} duration={500} className="nav-link.skills">
-          <li>Skills</li>
+          <li className="nav-link.skills">Skills</li>
         </Link>
         <Link to="project" smooth={true} duration={500} className="nav-link.projects" >
-          <li>Projects</li>
+          <li className="nav-link.projects">Projects</li>
         </Link>
         <Link to="contact" smooth={true} duration={500} className="nav-link.contact" >
-          <li>Contact</li>
+          <li className="nav-link.contact">Contact</li>
         </Link>
         <a
           href={pdf}
