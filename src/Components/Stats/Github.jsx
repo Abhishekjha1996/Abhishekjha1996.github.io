@@ -47,10 +47,10 @@ const Github = () => {
             <img className='img1' src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekjha1996&show_icons=true&locale=en&layout=compact" alt="Abhishekjha1996" />
             </div> */}
             <div className='stats2'>
-            <img className='img2' id="github-streak-stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekjha1996&show" alt="Abhishekjha1996" />
+            <img className='img2' id="github-streak-stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha1996&show" alt="Abhishekjha1996" />
             </div>
             <div className='stats3'>
-            <img  className='img3' id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=Abhishekjha1996&show_icons=true&locale=en" alt="Abhishekjha1996" />
+            <img  className='img3' id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=abhishekjha1996&show_icons=true&locale=en" alt="Abhishekjha1996" />
             </div>
             </div>
 
@@ -59,7 +59,7 @@ const Github = () => {
             <img
         alt=""
         align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekjha1996&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekjha1996&theme=github_dark"
       />
             </div>
 
@@ -68,10 +68,8 @@ const Github = () => {
             </div>
 
             <div className='calendar'>
-            <img src="https://github-profile-trophy.vercel.app/?username=Abhishekjha1996&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%" alt='Abhi'/>
+            <img src="https://github-profile-trophy.vercel.app/?username=abhishekjha1996&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%" alt='Abhi'/>
             </div>
-
-
 
 
             
