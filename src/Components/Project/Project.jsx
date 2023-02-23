@@ -32,7 +32,7 @@ export default function Proj(props) {
 
       <img src="https://media.tenor.com/PykA8MgJn2wAAAAC/divider.gif" style = {{height:"3px" , width: "100%"}} alt="divider" />
 
-      <div className="projCont">
+      <div className="projCont" id="projects">
       <div className="project-card">
 
 
