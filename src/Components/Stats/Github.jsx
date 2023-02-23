@@ -49,7 +49,7 @@ const Github = () => {
             <img className='img1' src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekjha1996&show_icons=true&locale=en&layout=compact" alt="Abhishekjha1996" />
             </div> */}
             <div className='stats2'>
-            <img className='img2'  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekjha1996&show" alt="Abhishekjha1996" />
+            <img className='img2' id="github-streak-stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekjha1996&show" alt="Abhishekjha1996" />
             </div>
             <div className='stats3'>
             <img  className='img3' src="https://github-readme-stats.vercel.app/api?username=Abhishekjha1996&show_icons=true&locale=en" alt="Abhishekjha1996" />
@@ -65,8 +65,8 @@ const Github = () => {
       />
             </div>
 
-            <div className='calendar'>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekjha1996&show_icons=true&locale=en&layout=compact" alt="Abhishekjha1996" />
+            <div  className='calendar'>
+            <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekjha1996&show_icons=true&locale=en&layout=compact" alt="Abhishekjha1996" />
             </div>
 
             <div className='calendar'>

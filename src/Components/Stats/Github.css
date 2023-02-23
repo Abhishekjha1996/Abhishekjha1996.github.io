@@ -13,8 +13,8 @@
     width: 100%;
     margin: auto;
 }
+
 .githead-div{
-    /* border: 1px solid red; */
     width: 90%;
     margin: auto;
   
@@ -23,7 +23,6 @@
     margin: auto;
     width: 95%;
     height: auto;
-    /* border: 1px solid red;     */
     margin-top: 60px;
     padding: 20px;
 }
@@ -34,7 +33,6 @@
 }
 
 .stats{
-    /* border: 1px solid red;   */
     width:95%;
     margin: auto;
     display: flex;
@@ -43,7 +41,6 @@
 }
 
 .stats > div {
-    /* border: 1px solid red;   */
     margin: auto;
     width: 80%;
     height: 280px;
@@ -56,16 +53,8 @@
     padding: 10px;
 }
 
-/* 
-.stats1{
-    /* height: 190px; */
-    width: 100%;
-    margin: auto;
-    /* margin-left: 437px; */
-   
-    margin-top: 40px;
-   
-/* } */
+
+
 .img1{
     border-radius: 8px;
     width: 100%;
@@ -80,26 +69,28 @@
     border-radius: 8px;
     width: 100%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
+};
+
 .stats2{
     width: 100%;
     margin: auto;
     margin-top: 40px;
     
     
-}
+};
+
 .stats3{
    
     width: 100%;
     margin: auto;
     margin-top: 40px;
  
-} */
+};
 
 
 @media only screen and (min-width:340px) and (max-width:480px){
     .stats1{
-        /* height: 190px; */
+
         width: 140%;
     }
     .stats2{
@@ -109,11 +100,10 @@
        
         width: 140%;
     }
-    
-    }
+};
+
   @media only screen and (min-width:481px) and (max-width:890px){
     .stats1{
-        /* height: 190px; */
         width: 100%;
     }
     .stats2{
@@ -123,7 +113,9 @@
        
         width: 100%;
     }
-  }
+  };
+
+
   @media only screen and (min-width:890px) and (max-width:1580px){
     .calendar{
         width:100%;
@@ -132,4 +124,4 @@
         margin-top: 60px;
         
     }
-  }
+  };

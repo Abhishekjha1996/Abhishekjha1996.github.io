@@ -8,6 +8,7 @@ import pdf from "./Abhishek_Jha_Resume.pdf"
 
 
 export default function Navbar() {
+  
   return (
     <div className="navbar" id="nav-menu">
       <div className="logo">
@@ -27,7 +28,7 @@ export default function Navbar() {
         <Link to="about" smooth={true} duration={500}>
           <li>About</li>
         </Link>
-        <Link to="skill" smooth={true} duration={500}>
+        <Link to="skills" smooth={true} duration={500}>
           <li>Skills</li>
         </Link>
         <Link to="project" smooth={true} duration={500}>
@@ -42,7 +43,7 @@ export default function Navbar() {
           rel="noreferrer"
           download
         >
-          <li>Resume</li> 
+          <li id="resume-button-1">Resume</li> 
           
         </a>
       </ul>

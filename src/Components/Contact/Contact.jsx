@@ -10,16 +10,17 @@ export default function Contact() {
       <div id="contact" className="connect">
         <div className="container">
           <h1 className="con-head">Contact Me</h1>
-          <p>
+          <p id="contact-email">
             Drop me a mail at <strong> <a href="mailto:abhishek.jha001996@gmail.com" className="mail-id">abhishek.jha001996@gmail.com</a></strong>
           </p>
-          <p>Phone: +91 8240443100</p>
+          <p id="contact-phone">Phone: +91 8240443100</p>
           
           <div className="links">
             <a
               href="https://github.com/Abhishekjha1996"
               target="_blank"
               rel="noreferrer"
+              id="contact-github"
             >
              
               <AiFillGithub className="fontlink"/>

@@ -35,7 +35,7 @@ const Home=()=>{
           rel="noreferrer"
           download
         >
-          <button className='portButton'>Resume<BiDownload className="download"/></button>
+          <button id="resume-button-2" className='portButton'>Resume<BiDownload className="download"/></button>
         </a>
       </div>
       <div>

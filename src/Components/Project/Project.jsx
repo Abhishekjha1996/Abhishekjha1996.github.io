@@ -33,7 +33,7 @@ export default function Proj(props) {
       <img src="https://media.tenor.com/PykA8MgJn2wAAAAC/divider.gif" style = {{height:"3px" , width: "100%"}} alt="divider" />
 
       <div className="projCont">
-      <div className="final">
+      <div className="project-card">
 
 
           <div className="img">
@@ -96,7 +96,7 @@ export default function Proj(props) {
         </div>
 
 
-      <div className="final">
+      <div className="project-card">
 
 
           <div>
@@ -156,7 +156,7 @@ export default function Proj(props) {
 
         </div>
 
-         <div className="final">
+         <div className="project-card">
     
          
           <div className="img">
@@ -210,7 +210,7 @@ export default function Proj(props) {
 
        
 
-        <div className="final">
+        <div className="project-card">
 
          
           <div>
