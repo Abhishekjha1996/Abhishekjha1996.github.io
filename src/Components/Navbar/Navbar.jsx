@@ -10,7 +10,7 @@ import pdf from "./Abhishek_Jha_Resume.pdf"
 export default function Navbar() {
   
   return (
-    <div className="navbar" id="nav-menu">
+    <div className="navbar nav-link.home" id="nav-menu"  >
       <div className="logo">
         <h1 className="logo-h1" style={{fontFamily:"cursive"}}>Abhishek Jha</h1>
       </div>

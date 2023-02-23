@@ -33,8 +33,6 @@ const Github = () => {
             <div className='calendar'>
                 <GitHubCalendar
                     username="Abhishekjha1996"
-                    hideColorLegend
-                    hideTotalCount
                     blockSize={22}
                     blockMargin={2}
                     width='100%'
@@ -52,7 +50,7 @@ const Github = () => {
             <img className='img2' id="github-streak-stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekjha1996&show" alt="Abhishekjha1996" />
             </div>
             <div className='stats3'>
-            <img  className='img3' src="https://github-readme-stats.vercel.app/api?username=Abhishekjha1996&show_icons=true&locale=en" alt="Abhishekjha1996" />
+            <img  className='img3' id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=Abhishekjha1996&show_icons=true&locale=en" alt="Abhishekjha1996" />
             </div>
             </div>
 
@@ -66,7 +64,7 @@ const Github = () => {
             </div>
 
             <div  className='calendar'>
-            <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekjha1996&show_icons=true&locale=en&layout=compact" alt="Abhishekjha1996" />
+            <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjha1996&show_icons=true&locale=en&layout=compact" alt="Abhishekjha1996" />
             </div>
 
             <div className='calendar'>
