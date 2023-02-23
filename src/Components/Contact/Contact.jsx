@@ -8,7 +8,7 @@ export default function Contact() {
   return (
     <>
       <div id="contact" className="connect">
-        <div className="container">
+        <div className="container" id="contact-linkedin">
           <h1 className="con-head">Contact Me</h1>
           <p id="contact-email">
             Drop me a mail at <strong> <a href="mailto:abhishek.jha001996@gmail.com" className="mail-id">abhishek.jha001996@gmail.com</a></strong>

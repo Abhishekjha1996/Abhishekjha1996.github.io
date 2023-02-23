@@ -8,7 +8,7 @@ import Github from './Stats/Github'
 
 export const HomePage = () => {
   return (
-    <div>
+    <div className='nav-link.home`'>
         <Home />
         <About />
         <Skill />
