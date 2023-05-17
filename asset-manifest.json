@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0f45bdc.css",
-    "main.js": "/static/js/main.4ef39459.js",
+    "main.css": "/static/css/main.d50128ba.css",
+    "main.js": "/static/js/main.5899acf4.js",
     "static/css/591.edca688b.chunk.css": "/static/css/591.edca688b.chunk.css",
     "static/js/591.d5284439.chunk.js": "/static/js/591.d5284439.chunk.js",
     "static/css/186.4099aa1a.chunk.css": "/static/css/186.4099aa1a.chunk.css",
@@ -18,8 +18,8 @@
     "static/media/ajiohome.jpg": "/static/media/ajiohome.23f76a4cb74fe977c502.jpg",
     "static/media/Abhishek_Jha_Resume.pdf": "/static/media/Abhishek_Jha_Resume.350324759f384b0b826e.pdf",
     "index.html": "/index.html",
-    "main.a0f45bdc.css.map": "/static/css/main.a0f45bdc.css.map",
-    "main.4ef39459.js.map": "/static/js/main.4ef39459.js.map",
+    "main.d50128ba.css.map": "/static/css/main.d50128ba.css.map",
+    "main.5899acf4.js.map": "/static/js/main.5899acf4.js.map",
     "591.edca688b.chunk.css.map": "/static/css/591.edca688b.chunk.css.map",
     "591.d5284439.chunk.js.map": "/static/js/591.d5284439.chunk.js.map",
     "186.4099aa1a.chunk.css.map": "/static/css/186.4099aa1a.chunk.css.map",
@@ -31,7 +31,7 @@
     "787.73fd2281.chunk.js.map": "/static/js/787.73fd2281.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0f45bdc.css",
-    "static/js/main.4ef39459.js"
+    "static/css/main.d50128ba.css",
+    "static/js/main.5899acf4.js"
   ]
 }
