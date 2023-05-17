@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d50128ba.css",
+    "main.css": "/static/css/main.ef3a433d.css",
     "main.js": "/static/js/main.5899acf4.js",
     "static/css/591.edca688b.chunk.css": "/static/css/591.edca688b.chunk.css",
     "static/js/591.d5284439.chunk.js": "/static/js/591.d5284439.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/ajiohome.jpg": "/static/media/ajiohome.23f76a4cb74fe977c502.jpg",
     "static/media/Abhishek_Jha_Resume.pdf": "/static/media/Abhishek_Jha_Resume.350324759f384b0b826e.pdf",
     "index.html": "/index.html",
-    "main.d50128ba.css.map": "/static/css/main.d50128ba.css.map",
+    "main.ef3a433d.css.map": "/static/css/main.ef3a433d.css.map",
     "main.5899acf4.js.map": "/static/js/main.5899acf4.js.map",
     "591.edca688b.chunk.css.map": "/static/css/591.edca688b.chunk.css.map",
     "591.d5284439.chunk.js.map": "/static/js/591.d5284439.chunk.js.map",
@@ -31,7 +31,7 @@
     "787.73fd2281.chunk.js.map": "/static/js/787.73fd2281.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d50128ba.css",
+    "static/css/main.ef3a433d.css",
     "static/js/main.5899acf4.js"
   ]
 }
